@@ -110,9 +110,9 @@ author:
   location         : "Seoul, South Korea"
   email            : "namwon@korea.ac.kr"
   links:
-    - label: "Email"
+    - label: "namwon@korea.ac.kr"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "mailto:namwon@korea.ac.kr"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
