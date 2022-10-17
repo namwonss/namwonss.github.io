@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "Namwon Kim"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Namwon Kim is currently pursuing the Ph.D. degree (advised by Prof. Chang-Sung Jeong) in the Department of Electrical Engineering at the [Korea University](https://www.korea.edu/), Seoul, Republic of Korea. His research interests include artificial intelligence and distributed parallel computing. <font color='dodgerblue'> [Korea University](https://www.korea.edu/) </font>"
+  bio              : "Namwon Kim is currently pursuing the Ph.D. degree (advised by Prof. Chang-Sung Jeong) in the Department of Electrical Engineering at the [Korea University](https://www.korea.edu/), Seoul, Republic of Korea. His research interests include artificial intelligence and distributed parallel computing. [<font color='dodgerblue'> Korea University </font>](https://www.korea.edu/)"
   location         : "Seoul, South Korea"
   email            :
   links:
