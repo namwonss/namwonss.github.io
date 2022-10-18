@@ -12,5 +12,7 @@ main:
   #   url: /sitemap/
   # - title: "Home"
   #   url: https://namwonss.github.io/
+  - title: "Posts"
+    url: "/_posts/"
   - title: "Publications"
     url: "/publications/"
