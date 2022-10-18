@@ -13,6 +13,6 @@ main:
   # - title: "Home"
   #   url: https://namwonss.github.io/
   - title: "Posts"
-    url: "/_posts/"
+    url: "/categories/"
   - title: "Publications"
     url: "/publications/"
