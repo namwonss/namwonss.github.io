@@ -13,7 +13,7 @@ tags: [publication]
 
 ## Conference
 * 2018
-  - Namwon kim, Deokjin Seo, and Chang-Sung Jeong. "FAMOUS: fake news detection model based on unified key sentence information." 2018 IEEE 9th International Conference on Software Engineering and Service Science (ICSESS). IEEE, 2018. [<font color='dodgerblue'> Access to Document </font>](https://ieeexplore.ieee.org/document/8663864)
+  - Namwon kim, Deokjin Seo, and Chang-Sung Jeong. "FAMOUS: fake news detection model based on unified key sentence information." 2018 IEEE 9th International Conference on Software Engineering and Service Science (ICSESS). IEEE, 2018. [<font color='dodgerblue'> [Access to Document] </font>](https://ieeexplore.ieee.org/document/8663864)
 
   
 ## Patent
