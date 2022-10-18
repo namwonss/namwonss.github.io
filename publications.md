@@ -1,5 +1,6 @@
 ---
 permalink: /publications/
+layout: single
 title: "Publications"
 excerpt: "publications.md"
 tags: [publication]
