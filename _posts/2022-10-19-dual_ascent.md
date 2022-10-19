@@ -41,7 +41,7 @@ $x^{*}$
 is recovered from a dual optimal point $y^{*}$.
 
 
-$$x^*=argmin_{x\in \mathbb{R}^n}\ L(x,y^*)$$
+$x^*=argmin_{x\in \mathbb{R}^n}\ L\left (x, y^*\right )$
 
 
 
