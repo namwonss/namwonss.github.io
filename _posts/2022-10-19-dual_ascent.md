@@ -15,7 +15,7 @@ Consider the constrained optimization problem
 
 $\min_{x\in \mathbb{R}^{n}} f(x)$
 
-$s.t. \,Ax=b$
+$s.t. \ Ax=b$
 
 where $A\in \mathbb{R}^{m\times n}$, $b\in \mathbb{R}^{m}$ and $f:\mathbb{R}^{n}\rightarrow \mathbb{R}$ is a convex function.
 
@@ -35,11 +35,11 @@ Then we have to optimize the dual function,
 
 $\max _{y\in \mathbb{R}^{n}} g(y)$
 
-$\y^{*}$
+$\ y^{*}$
 
 Consider the strong duality holds, the optimal values of the primal and dual solution are the same.
 
-The primal optimal point $\x^{*}$ is recovered from a dual optimal point $\y^{*}$.
+The primal optimal point $\ x^{*}$ is recovered from a dual optimal point $\ y^{*}$.
 
 $\x^{*}=arg\min_{x\in \mathbb{R}^{n}} L(x,y^{*})$
 
