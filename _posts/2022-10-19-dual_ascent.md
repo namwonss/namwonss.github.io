@@ -40,7 +40,7 @@ $x^{\ast}=argmin_{x\in \mathbb{R}^n}\ L\left (x, y^{\ast}\right )$
 
 Assuming that $g$ is differentiable, we use gradient ascent method to find out the residual for the equality constraint.
 
-Then the gradient \triangledown g(y^{\ast} ) can be updated as follows,
+Then the gradient $\triangledown g(y^{\ast} )$ can be updated as follows,
 
 $\triangledown g(y^{\ast} ) = Ax^{\ast} - b$
 
