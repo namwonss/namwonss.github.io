@@ -34,8 +34,6 @@ $\max _{y\in \mathbb{R}^{n}} g(y)$
 
 Consider the strong duality holds, the optimal values of the primal and dual solution are the same.
 
-The primal optimal point $f^{*}$ is recovered from a dual optimal point $f^{*}$.
-
 $x^{*}=arg\min_{x\in \mathbb{R}^{n}} L(x,y^{*})$
 
 $s.t. \ Ax=b$
