@@ -34,8 +34,10 @@ $\max _{y\in \mathbb{R}^{n}} g(y)$
 
 Consider the strong duality holds, the optimal values of the primal and dual solution are the same.
 
-The primal optimal point is recovered from a dual optimal point.
+The primal optimal point $f(x) = x^2$ is recovered from a dual optimal point.
 
-$x^{*}=argmin_{x\in \mathbb{R}^{n}}\ L(x,y^{*})$
+$x^*=argmin_{x\in \mathbb{R}^n}\ L(x,y^*)$
+
+
 
 
