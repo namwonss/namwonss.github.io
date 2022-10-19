@@ -114,7 +114,7 @@ author:
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:namwon@korea.ac.kr"
     - label: "Google Scholar"
-      icon: "fa fa-google"
+      icon: "fas fa-fw fa-link"
       url: "https://scholar.google.com/citations?user=LWicqf0AAAAJ&hl=ko"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
