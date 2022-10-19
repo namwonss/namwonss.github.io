@@ -1,8 +1,5 @@
 ---
-permalink: /_pages/about.md
-layout: single
+title:  "Welcome to homepage!"
 ---
 
-## Hello
-* Simple
-  - pages
+# Welcome
