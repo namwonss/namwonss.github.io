@@ -10,7 +10,7 @@ use_math: true
 
 Consider the constrained optimization problem
 
-<center>$\min_{x\in \mathbb{R}^{n}} f(x)$</center>
+$\min_{x\in \mathbb{R}^{n}} f(x)$
 
 $s.t. \ Ax=b$
 
