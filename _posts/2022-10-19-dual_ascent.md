@@ -5,10 +5,7 @@ categories:
  - Algorithm
 use_math: true
 ---
-
-
 # Dual ascent
-
 
 
 Consider the constrained optimization problem
@@ -41,4 +38,4 @@ The primal optimal point $f^{*}$ is recovered from a dual optimal point $f^{*}$.
 
 $x^{*}=arg\min_{x\in \mathbb{R}^{n}} L(x,y^{*})$
 
-
+$s.t. \ Ax=b$
