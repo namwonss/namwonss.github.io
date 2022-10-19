@@ -15,6 +15,7 @@ $\min_{x\in \mathbb{R}^{n}} f(x)$
 $s.t. \ Ax=b$
 
 where $A\in \mathbb{R}^{m\times n}$, $b\in \mathbb{R}^{m}$ and $f:\mathbb{R}^{n}\rightarrow \mathbb{R}$ is a convex function.
+
 ---
 
 
@@ -24,6 +25,7 @@ Its Lagrangian function is
 $L(x, y) = f(x) + y^{T}(Ax-b)$
 
 where y is a Lagrangian multiplier.
+
 ---
 
 
@@ -33,6 +35,7 @@ Its dual function is
 $g(y) = \inf _{x\in \mathbb{R}^{n}} L(x, y) = -f^{\ast}(-A^{T}y)-b^{T}y$
 
 where $f^{\ast}$ is a conjugate of $f$.
+
 ---
 
 
@@ -40,6 +43,7 @@ where $f^{\ast}$ is a conjugate of $f$.
 Then we have to optimize the dual function,
 
 $\max _{y\in \mathbb{R}^{n}} g(y)$
+
 ---
 
 
@@ -49,6 +53,7 @@ Consider the strong duality holds, the optimal values of the primal and dual sol
 The primal optimal point $x^{\ast}$ is recovered from a dual optimal point $y^{\ast}$.
 
 $x^{\ast}=argmin_{x\in \mathbb{R}^n}\ L\left (x, y^{\ast}\right )$
+
 ---
 
 
@@ -58,6 +63,7 @@ Assuming that $g$ is differentiable, we use gradient ascent method to find out t
 Then the gradient $\triangledown g(y^{\ast} )$ can be updated as follows,
 
 $\triangledown g(y^{\ast} ) = Ax^{\ast} - b$
+
 ---
 
 
