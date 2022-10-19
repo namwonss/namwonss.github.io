@@ -46,13 +46,13 @@ $\triangledown g(y^{\ast} ) = Ax^{\ast} - b$
 
 The dual ascent method consists of iterative steps
 
- 1. Minimization step
+$1.$ Minimization step
 
 $x^{k+1}=argmin_{x\in \mathbb{R}^n}\ L\left (x, y^{k}\right )$
 
 where $k$ is number of iterations.
 
- 2. Dual variable update step
+$2.$ Dual variable update step
 
 $y^{k+1}= y^{k} + \alpha^{k}(Ax^{k+1}-b)$
 
