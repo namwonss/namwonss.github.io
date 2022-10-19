@@ -26,6 +26,7 @@ Its dual function is
 
 $g(y) = \inf _{x\in \mathbb{R}^{n}} L(x, y) = -f^{*}(-A^{T}y)-b^{T}y$
 
+where $f^{*}$ is a conjugate of $f$.
 
 $\lim_{x\rightarrow 0}$
 
