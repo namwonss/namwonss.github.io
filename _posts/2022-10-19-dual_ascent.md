@@ -11,4 +11,5 @@ use_math: true
 Consider the constrained optimization problem
 
 $min_{x\in \mathbb{R}^{n}} f(x)$
+
 $s.t. \,Ax=b$
