@@ -42,7 +42,20 @@ Assuming that $g$ is differentiable, we use gradient ascent method to find out t
 
 Then the gradient \triangledown g(y^{\ast} ) can be updated as follows,
 
-\triangledown g(y^{\ast} ) = Ax^{\ast} - b
+$\triangledown g(y^{\ast} ) = Ax^{\ast} - b$
 
+The dual ascent method consists of iterative steps
+
+1. minimization step
+
+$x^{k+1}=argmin_{x\in \mathbb{R}^n}\ L\left (x, y^{k}\right )$
+
+where $k$ is number of iterations.
+
+2. dual variable update step
+
+$y^{k+1}= y^{k} + \alpha^{k}(Ax^{k+1}-b)$
+
+where $\alpha^{k}$ is step size parameter.
 
 
