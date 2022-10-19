@@ -21,3 +21,8 @@ Its Lagrangian function is
 $L(x, y) = f(x) + y^{T}(Ax-b)$
 
 where y is a Lagrangian multiplier.
+
+Its dual function is
+
+$g(y) = \inf _{x\in \mathbb{R}^{n}} L(x, y) = -f^{*}(-A^{T}y)-b^{T}y$
+
