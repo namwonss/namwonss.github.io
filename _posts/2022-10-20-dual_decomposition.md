@@ -23,5 +23,7 @@ Similarly, $A=\left [ A_{1},A_{2},...,A_{N} \right ]$
 so $Ax = \sum_{i=1}^{N} A_{i}x_{i}$, and the Lagrangian function is as follows,
 
 
-$L\left ( x,y \right ) = \sum_{i=1}^{N} L_{i}\left ( x_{i},y_{i} \right )\\=\sum_{i=1}^{N} \left ( f\left ( x \right ) +y^{T}A_{i}x_{i}-\frac{1}{N}y^{T}b\right )$
+$L\left ( x,y \right ) = \sum_{i=1}^{N} L_{i}\left ( x_{i},y_{i} \right )$
+
+$=\sum_{i=1}^{N} \left ( f\left ( x \right ) +y^{T}A_{i}x_{i}-\frac{1}{N}y^{T}b\right )$
 
