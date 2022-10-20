@@ -34,11 +34,13 @@ The minimization step splits into $N$ separate problems, which are solved parall
 
 <center>$x^{k+1}=argmin_{x\in \mathbb{R}^n}\ L_{i}\left (x_{i}, y^{k}_{i}\right )$</center>
 
+<br/>
 
 The dual variable update is as follows,
 
 
 <center>$y^{k+1}=y^{k}+\alpha^{k}\left ( Ax^{k+1}-b \right )$</center>
 
+<br/>
 
 Thus, this decomposition in dual ascent is referred to as dual decomposition.
