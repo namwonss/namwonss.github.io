@@ -4,6 +4,7 @@ layout: single
 title: "Publications"
 excerpt: "publications.md"
 tags: [publication]
+author_profile: true
 ---
 
 ## Journal
