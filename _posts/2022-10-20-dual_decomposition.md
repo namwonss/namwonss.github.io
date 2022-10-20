@@ -13,6 +13,7 @@ Consider
 
 <center>$f\left ( x \right ) = \sum_{i=1}^{N}f_{i} \left ( x_{i} \right )$</center>
 
+<br/>
 
 where objective function $f$ is separable, $x=\left ( x_{1},...,x_{N} \right )$, and the variables $x_{i} \in \mathbb{R}^{n}$ are subvectors of $x$.
 
