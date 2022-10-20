@@ -11,9 +11,8 @@ Namwon Kim is currently pursuing the Ph.D. degree (advised by [<font color='dodg
 His research interests include:
 - Artificial Intelligence
 - Distributed Parallel Computing.
-  
-  
-  
-  
+
+<br/><br/><br/><br/>
+
 <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=2d78ad&w=500&t=tt&d=9n7XmY2J_uslkPyd-OJqi7ZPT-U-vdL-bqFJ1LKAZEI&co=ffffff&ct=000000"></script>
 
