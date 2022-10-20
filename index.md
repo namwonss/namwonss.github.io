@@ -19,7 +19,7 @@ My research interests include:
 - Artificial Intelligence
 - Distributed Parallel Computing.
 
-<br/><br/><br/>
+<br/><br/>
 
 I always go for **deep** and **intuitive** thinking.
 
