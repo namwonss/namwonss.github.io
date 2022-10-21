@@ -1,5 +1,9 @@
 # main links
 main:
+  - title: "Posts"
+    url: "/categories/"
+  - title: "Publications"
+    url: "/publications/"
   # - title: "Quick-Start Guide"
   #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
@@ -12,7 +16,3 @@ main:
   #   url: /sitemap/
   # - title: "Home"
   #   url: https://namwonss.github.io/
-  - title: "Posts"
-    url: "/categories/"
-  - title: "Publications"
-    url: "/publications/"
