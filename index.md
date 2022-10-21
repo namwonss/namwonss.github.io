@@ -23,6 +23,10 @@ My research interests include:
 
 I always go for **intuitive** and **deep** thinking.
 
+<br/>
+
+I try not to become a man of success, but rather try to become a man of **value**.
+
 <br/><br/><br/><br/>
 
 <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=2d78ad&w=500&t=tt&d=9n7XmY2J_uslkPyd-OJqi7ZPT-U-vdL-bqFJ1LKAZEI&co=ffffff&ct=000000"></script>
