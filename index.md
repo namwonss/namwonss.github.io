@@ -21,7 +21,7 @@ My research interests include:
 
 <br/><br/>
 
-I always go for **deep** and **intuitive** thinking.
+I always go for **intuitive** and **deep** thinking.
 
 <br/><br/><br/><br/>
 
