@@ -19,13 +19,8 @@ My research interests include:
 - Artificial Intelligence
 - Distributed Parallel Computing.
 
-<br/><br/>
 
-I always go for **intuitive** and **deep** thinking.
 
-<br/>
-
-I try not to become a man of success, but rather try to become a man of **value**.
 
 <br/><br/><br/><br/>
 
