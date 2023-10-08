@@ -9,7 +9,8 @@ author_profile: true
 
 ## Journal
 * 2023
-  - Namwon Kim, Seong-Soo Han, and Chang-Sung Jeong. "ADOM: ADMM-Based Optimization Model for Stripe Noise Removal in Remote Sensing Image," IEEE Access, vol. 11, Sep. 2023. [<font color='dodgerblue'> [Access to Document] </font>](https://ieeexplore.ieee.org/abstract/document/10262317) [<font color='dodgerblue'> [Code] </font>](https://github.com/namwonss/ADOM)
+  - Namwon Kim, Seong-Soo Han, and Chang-Sung Jeong. "ADOM: ADMM-Based Optimization Model for Stripe Noise Removal in Remote Sensing Image," IEEE Access, vol. 11, Sep. 2023. [<font color='dodgerblue'> [Access to Document] </font>](https://ieeexplore.ieee.org/abstract/document/10262317)
+  [<font color='dodgerblue'> [Code] </font>](https://github.com/namwonss/ADOM)
 
 
 ## Conference
