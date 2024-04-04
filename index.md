@@ -21,7 +21,6 @@ My research interests include:
 
 
 <h2>Awards and Honors</h2>
-<hr>
     <tr>
         <ul>
             <li>
