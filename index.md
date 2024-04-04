@@ -19,10 +19,9 @@ My research interests include:
 
 <br/><br/>
 
-  
+
 <h2>Awards and Honors</h2>
 <hr>
-<table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
     <tr>
         <ul>
             <li>
@@ -35,7 +34,6 @@ My research interests include:
             </li>
         </ul>
     </tr>
-</table>
     
 
 
