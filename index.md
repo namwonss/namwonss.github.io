@@ -3,11 +3,7 @@ layout: single
 author_profile: true
 ---
 
-**About me**
-
-<br/>
-
-Hello, I'm Namwon Kim.
+<h2>Namwon Kim</h2>
 
 <br/>
 
@@ -21,33 +17,29 @@ My research interests include:
 - Distributed Parallel Computing
 - Image Processing.
 
+<br/><br/>
 
-<body>
-  <tr style="padding:0px">
-    <td style="padding:0px">
   
-      <h2>Awards and Honors</h2>
-      <hr>
-      <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
-          <tbody>
-          <tr>
-              <ul>
-                  <li>
-                      Stage 1 Winner of the Track 5, 2021 AI R&D Grand Challenge, Ministry of Science and ICT, South Korea.
-                      <div style="float:right; text-align:right">2021</div>
-                  </li>
-                  <li>
-                      5th Place Winner of the Object Classification Track, 2020 AI R&D Grand Challenge, Ministry of Science and ICT, South Korea.
-                      <div style="float:right; text-align:right">2020</div>
-                  </li>
-              </ul>
-          </tr>
-          </tbody>
-      </table>
+<h2>Awards and Honors</h2>
+<hr>
+<table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+    <tbody>
+    <tr>
+        <ul>
+            <li>
+                Stage 1 Winner of the Track 5, 2021 AI R&D Grand Challenge, Ministry of Science and ICT, South Korea.
+                <div style="float:right; text-align:right">2021</div>
+            </li>
+            <li>
+                5th Place Winner of the Object Classification Track, 2020 AI R&D Grand Challenge, Ministry of Science and ICT, South Korea.
+                <div style="float:right; text-align:right">2020</div>
+            </li>
+        </ul>
+    </tr>
+    </tbody>
+</table>
     
-    </td>
-  </tr>
-</body>
+
 
 
 <br/><br/><br/><br/>
