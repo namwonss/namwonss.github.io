@@ -17,6 +17,39 @@ My research interests include:
 
 <br/>
 
+<h2>Publications</h2>
+<table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+  <tbody>
+  <!--             ADOM-->
+  <tr bgcolor="#ffffff">
+      <td style="padding:20px;width:35%;vertical-align:middle">
+          <img src='images/ADOM.png' width="250"></div>
+      </td>
+      <td width="75%" valign="middle">
+          <p>
+              <a target="_blank" href="https://ieeexplore.ieee.org/document/10262317">
+                  <papertitle>
+                    ADOM: ADMM-Based Optimization Model for Stripe Noise Removal in Remote Sensing Image
+                  </papertitle>
+              </a>
+              <br>
+              <b>Namwon Kim*</b>, Seong-Soo Han, Chang-Sung Jeong
+              <br>
+              <em>IEEE Access</em>, 2023
+
+              <br>
+              [<a target="_blank" href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10262317">paper</a>]
+              [<a target="_blank" href="https://github.com/namwonss/ADOM">code</a>]
+              <br>
+          </p>
+
+      </td>
+  </tr>
+
+  </tbody>
+</table>
+
+<br/>
 
 <h2>Awards and Honors</h2>
 <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
