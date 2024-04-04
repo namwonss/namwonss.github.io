@@ -44,6 +44,29 @@ My research interests include:
         </p>
       </td>
   </tr>
+  <!--             FAMOUS-->
+  <tr>
+      <td style="padding:20px;width:35%;vertical-align:middle">
+          <img src='images/FAMOUS.png' width="250">
+      </td>
+      <td width="75%" valign="middle">
+        <p>
+            <a target="_blank" href="https://ieeexplore.ieee.org/document/8663864">
+                <papertitle>
+                  FAMOUS: Fake News Detection Model Based on Unified Key Sentence Information
+                </papertitle>
+            </a>
+            <br>
+            <b>Namwon Kim*</b>, Deokjin Seo, Chang-Sung Jeong
+            <br>
+            <em>2018 IEEE 9th International Conference on Software Engineering and Service Science (ICSESS)</em>, 2018
+
+            <br>
+            [<a target="_blank" href="https://github.com/namwonss/namwonss.github.io/blob/master/images/FAMOUS.pdf">paper</a>]
+            <br>
+        </p>
+      </td>
+  </tr>
 
   </tbody>
 </table>
