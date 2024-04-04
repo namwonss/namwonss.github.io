@@ -23,7 +23,7 @@ My research interests include:
   <!--             ADOM-->
   <tr bgcolor="#ffffff">
       <td style="padding:20px;width:35%;vertical-align:middle">
-          <img src='images/ADOM.png' width="250"></div>
+          <img src='images/ADOM.png' width="250">
       </td>
       <td width="75%" valign="middle">
           <p>
