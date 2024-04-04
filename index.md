@@ -62,7 +62,7 @@ My research interests include:
             <em>2018 IEEE 9th International Conference on Software Engineering and Service Science (ICSESS)</em>, 2018
 
             <br>
-            [<a target="_blank" href="https://nbviewer.org/github/namwonss/namwonss.github.io/blob/master/images/FAMOUS.pdf">paper</a>]
+            [<a target="_blank" href="https://nbviewer.org/github/namwonss/namwonss.github.io/blob/master/images/famous.pdf">paper</a>]
             <br>
         </p>
       </td>
