@@ -21,7 +21,7 @@ My research interests include:
 <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
   <tbody>
   <!--             ADOM-->
-  <tr bgcolor="#ffffff">
+  <tr>
       <td style="padding:20px;width:35%;vertical-align:middle">
           <img src='images/ADOM.png' width="250">
       </td>
