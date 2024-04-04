@@ -25,7 +25,7 @@ My research interests include:
       <td style="padding:20px;width:35%;vertical-align:middle">
           <img src='images/ADOM.png' width="250">
       </td>
-      <td width="75%" valign="middle">
+      <td>
             <a target="_blank" href="https://ieeexplore.ieee.org/document/10262317">
                 <papertitle>
                   ADOM: ADMM-Based Optimization Model for Stripe Noise Removal in Remote Sensing Image
