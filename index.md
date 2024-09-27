@@ -20,6 +20,29 @@ My research interests include:
 <h2>Publications</h2>
 <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
   <tbody>
+  <!--             DA-Net-->
+  <tr>
+      <td style="padding:20px;width:35%;vertical-align:middle">
+          <img src='images/DA-Net.png' width="250">
+      </td>
+      <td width="75%" valign="middle">
+        <p>
+            <a target="_blank" href="https://ieeexplore.ieee.org/document/10679105">
+                <papertitle>
+                  DA-Net: Dual Attention Network for Haze Removal in Remote Sensing Image
+                </papertitle>
+            </a>
+            <br>
+            <b>Namwon Kim*</b>, Il-Seok Choi, Seong-Soo Han, and Chang-Sung Jeong
+            <br>
+            <em>IEEE Access</em>, 2024
+
+            <br>
+            [<a target="_blank" href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10679105">paper</a>]
+            <br>
+        </p>
+      </td>
+  </tr>
   <!--             ADOM-->
   <tr>
       <td style="padding:20px;width:35%;vertical-align:middle">
@@ -33,7 +56,7 @@ My research interests include:
                 </papertitle>
             </a>
             <br>
-            <b>Namwon Kim*</b>, Seong-Soo Han, Chang-Sung Jeong
+            <b>Namwon Kim*</b>, Seong-Soo Han, and Chang-Sung Jeong
             <br>
             <em>IEEE Access</em>, 2023
 
@@ -57,7 +80,7 @@ My research interests include:
                 </papertitle>
             </a>
             <br>
-            <b>Namwon Kim*</b>, Deokjin Seo, Chang-Sung Jeong
+            <b>Namwon Kim*</b>, Deokjin Seo, and Chang-Sung Jeong
             <br>
             <em>2018 IEEE 9th International Conference on Software Engineering and Service Science (ICSESS)</em>, 2018
 
