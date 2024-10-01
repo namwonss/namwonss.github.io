@@ -8,6 +8,8 @@ author_profile: true
 ---
 
 ## Journal
+* 2024
+  - Namwon Kim, Il-Seok Choi, Seong-Soo Han, and Chang-Sung Jeong. "DA-Net: Dual Attention Network for Haze Removal in Remote Sensing Image," IEEE Access, vol. 12, Sep. 2024. [<font color='dodgerblue'> [Access to Manuscript] </font>](https://ieeexplore.ieee.org/abstract/document/10679105)
 * 2023
   - Namwon Kim, Seong-Soo Han, and Chang-Sung Jeong. "ADOM: ADMM-Based Optimization Model for Stripe Noise Removal in Remote Sensing Image," IEEE Access, vol. 11, Sep. 2023. [<font color='dodgerblue'> [Access to Manuscript] </font>](https://ieeexplore.ieee.org/abstract/document/10262317)
   [<font color='dodgerblue'> [Code] </font>](https://github.com/namwonss/ADOM)
