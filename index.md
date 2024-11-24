@@ -5,7 +5,7 @@ author_profile: true
 
 <h2>Namwon Kim</h2>
 
-I'm currently pursuing the Ph.D. degree (advised by [<font color='dodgerblue'> Prof. Chang-Sung Jeong </font>](https://koreauniv.pure.elsevier.com/en/persons/chang-sung-jeong)) in the [<font color='dodgerblue'> Department of Electrical and Computer Engineering </font>](https://ee.korea.ac.kr/eng/main/main.html) at the [<font color='dodgerblue'> Korea University</font>](https://www.korea.edu/), Seoul, Republic of Korea.
+Namwon Kim received the Ph.D. degree (advised by [<font color='dodgerblue'> Prof. Chang-Sung Jeong </font>](https://koreauniv.pure.elsevier.com/en/persons/chang-sung-jeong)) in the [<font color='dodgerblue'> Department of Electrical and Computer Engineering </font>](https://ee.korea.ac.kr/eng/main/main.html) from the [<font color='dodgerblue'> Korea University</font>](https://www.korea.edu/), Seoul, Republic of Korea, in 2025.
 
 <br/>
 
