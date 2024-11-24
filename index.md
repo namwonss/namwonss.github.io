@@ -5,11 +5,11 @@ author_profile: true
 
 <h2>Namwon Kim</h2>
 
-Namwon Kim received the Ph.D. degree (advised by [<font color='dodgerblue'> Prof. Chang-Sung Jeong </font>](https://koreauniv.pure.elsevier.com/en/persons/chang-sung-jeong)) in the [<font color='dodgerblue'> Department of Electrical and Computer Engineering </font>](https://ee.korea.ac.kr/eng/main/main.html) from the [<font color='dodgerblue'> Korea University</font>](https://www.korea.edu/), Seoul, Republic of Korea, in 2025.
+Namwon Kim received the B.S. degree in electronic engineering from Jeonbuk National University, Jeonju, South Korea, in 2018, and the received the Ph.D. degree (advised by [<font color='dodgerblue'> Prof. Chang-Sung Jeong </font>](https://koreauniv.pure.elsevier.com/en/persons/chang-sung-jeong)) in the [<font color='dodgerblue'> Department of Electrical and Computer Engineering </font>](https://ee.korea.ac.kr/eng/main/main.html) from the [<font color='dodgerblue'> Korea University</font>](https://www.korea.edu/), Seoul, Republic of Korea, in 2025.
 
 <br/>
 
-My research interests include:
+His research interests include:
 - Artificial Intelligence
 - Computer Vision
 - Distributed Parallel Computing
