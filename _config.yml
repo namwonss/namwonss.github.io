@@ -110,9 +110,9 @@ author:
   location         : "Seoul, South Korea"
   email            :
   links:
-    - label: "namwon@korea.ac.kr"
+    - label: "namwon@kaist.ac.kr"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:namwon@korea.ac.kr"
+      url: "mailto:namwon@kaist.ac.kr"
     - label: "Google Scholar"
       icon: "fas fa-fw fa-link"
       url: "https://scholar.google.com/citations?user=LWicqf0AAAAJ&hl=ko"
