@@ -7,7 +7,7 @@ author_profile: true
 
 Namwon Kim received the B.S. degree in electronic engineering from Jeonbuk National University, Jeonju, Republic of Korea, in 2018, and the Ph.D. degree (advised by [<font color='dodgerblue'> Prof. Chang-Sung Jeong </font>](https://koreauniv.pure.elsevier.com/en/persons/chang-sung-jeong)) in the [<font color='dodgerblue'> Department of Electrical and Computer Engineering </font>](https://ee.korea.ac.kr/eng/main/main.html) from [<font color='dodgerblue'> Korea University</font>](https://www.korea.edu/), Seoul, Republic of Korea, in 2025, respectively.
 
-He is currently with the Satellite Technology Research Center ([<font color='dodgerblue'> SaTRec</font>](https://satrec.kaist.ac.kr/)), Korea Advanced Institute of Science and Technology ([<font color='dodgerblue'> KAIST</font>](https://www.kaist.ac.kr/en/)), Daejeon, South Korea, where he has been the Senior Researcher since March 2025. His current research interests include satellite system design, artificial intelligence, distributed parallel computing, remote sensing image processing, and geoscience applications.
+He is currently with the Satellite Technology Research Center ([<font color='dodgerblue'>SaTRec</font>](https://satrec.kaist.ac.kr/)), Korea Advanced Institute of Science and Technology ([<font color='dodgerblue'>KAIST</font>](https://www.kaist.ac.kr/en/)), Daejeon, South Korea, where he has been the Senior Researcher since March 2025. His current research interests include satellite system design, artificial intelligence, distributed parallel computing, remote sensing image processing, and geoscience applications.
 
 <br/>
 
